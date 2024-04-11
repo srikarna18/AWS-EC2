@@ -1,0 +1,25 @@
+step1:
+
+ Create an EC2 Instance
+
+step2:
+
+Access the EC2 instance through Terminal with the publicip address (personally i use mobaxterm)
+
+step3:
+
+Install Java(jdk) run the command   Sudo apt install openjdk-11-jdk (Need to have java to install jenkins) 
+
+step4:
+
+Now intall Jenkins, refer https://www.jenkins.io/doc/book/installing for installation 
+
+Step5:
+
+Access Jenkins by entering the publicip address with the jenkins port in the tab 
+
+step6:
+
+Great, now jenkins is accessed and provide the command in terminal to get password (cat /path/)  and paste the password in the terminal, 
+  install suggested plugins and Jenkins is ready to perform the tasks.
+
