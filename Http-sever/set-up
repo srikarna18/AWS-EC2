@@ -1,5 +1,10 @@
+Follow the steps below to install Apache Webserver on EC2
+
+
 -- create Ec2 instance (AMI-amazon linux)
+
 -- connect to instance (SSH)
+
 -- Run the following commands 
    - sudo su
    - yum update 
@@ -7,5 +12,9 @@
    - systemctl start httpd.service
    - systemctl enable httpd.service
    - systemctl status httpd.service
+
 -- Now copy paste the Ip address in new tab
--- you will see the server working
+
+-- you will see the server working:
+
+![Screenshot (129)](https://github.com/srikarna18/AWS-EC2/assets/141703505/e6dce81d-d5c0-4889-ad89-5bb8ea25b4e6)
