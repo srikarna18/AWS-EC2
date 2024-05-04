@@ -1,0 +1,11 @@
+-- create Ec2 instance (AMI-amazon linux)
+-- connect to instance (SSH)
+-- Run the following commands 
+   - sudo su
+   - yum update 
+   - yum install -y httpd.x86_64
+   - systemctl start httpd.service
+   - systemctl enable httpd.service
+   - systemctl status httpd.service
+-- Now copy paste the Ip address in new tab
+-- you will see the server working
