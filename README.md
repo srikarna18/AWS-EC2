@@ -45,5 +45,8 @@ These accelerators offload computationally intensive tasks from the main CPU, en
 
 For more info go through the https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html 
 
+And Checkout set-up file to install Apache Wbserver on AWS EC2
+
+![Screenshot (129)](https://github.com/srikarna18/AWS-EC2/assets/141703505/145c1c44-360e-4f2e-a673-f506e34a52fd)
 
 
